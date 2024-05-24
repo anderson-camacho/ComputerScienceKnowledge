@@ -1,4 +1,4 @@
 # ComputerScienceKnowledge
 
-##La computación como proceso Natural
+## La computación como proceso Natural
 
